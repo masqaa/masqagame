@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/gra.dir/link.d CMakeFiles/gra.dir/main.cpp.o CMakeFiles/gra.dir/postacie/Gracz.cpp.o CMakeFiles/gra.dir/postacie/Postac.cpp.o CMakeFiles/gra.dir/postacie/Wrog.cpp.o CMakeFiles/gra.dir/systemy/SystemWalki.cpp.o -o gra

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/root/FinalnyProjektKoncowy/build",
+  "command": "/usr/bin/g++ -I/root/FinalnyProjektKoncowy -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/gra.dir/main.cpp.o -c /root/FinalnyProjektKoncowy/main.cpp",
+  "file": "/root/FinalnyProjektKoncowy/main.cpp",
+  "output": "CMakeFiles/gra.dir/main.cpp.o"
+},
+{
+  "directory": "/root/FinalnyProjektKoncowy/build",
+  "command": "/usr/bin/g++ -I/root/FinalnyProjektKoncowy -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/gra.dir/postacie/Gracz.cpp.o -c /root/FinalnyProjektKoncowy/postacie/Gracz.cpp",
+  "file": "/root/FinalnyProjektKoncowy/postacie/Gracz.cpp",
+  "output": "CMakeFiles/gra.dir/postacie/Gracz.cpp.o"
+},
+{
+  "directory": "/root/FinalnyProjektKoncowy/build",
+  "command": "/usr/bin/g++ -I/root/FinalnyProjektKoncowy -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/gra.dir/postacie/Postac.cpp.o -c /root/FinalnyProjektKoncowy/postacie/Postac.cpp",
+  "file": "/root/FinalnyProjektKoncowy/postacie/Postac.cpp",
+  "output": "CMakeFiles/gra.dir/postacie/Postac.cpp.o"
+},
+{
+  "directory": "/root/FinalnyProjektKoncowy/build",
+  "command": "/usr/bin/g++ -I/root/FinalnyProjektKoncowy -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/gra.dir/postacie/Wrog.cpp.o -c /root/FinalnyProjektKoncowy/postacie/Wrog.cpp",
+  "file": "/root/FinalnyProjektKoncowy/postacie/Wrog.cpp",
+  "output": "CMakeFiles/gra.dir/postacie/Wrog.cpp.o"
+},
+{
+  "directory": "/root/FinalnyProjektKoncowy/build",
+  "command": "/usr/bin/g++ -I/root/FinalnyProjektKoncowy -g -std=gnu++17 -Wall -Wextra -o CMakeFiles/gra.dir/systemy/SystemWalki.cpp.o -c /root/FinalnyProjektKoncowy/systemy/SystemWalki.cpp",
+  "file": "/root/FinalnyProjektKoncowy/systemy/SystemWalki.cpp",
+  "output": "CMakeFiles/gra.dir/systemy/SystemWalki.cpp.o"
+}
+]
